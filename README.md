@@ -1,6 +1,6 @@
 # Local Pi Assistant – Offline Raspberry Pi Voice Assistant
 
-A privacy focused voice assistant running locally on Raspberry Pi 5. Uses OpenAI WhisperAI for speech-to-text and Ollama LLM for responses, which are displayed on 16x2 LCD screen.
+This is a privacy focused voice assistant running locally on my Raspberry Pi 5. I used OpenAI WhisperAI for speech-to-text and Ollama LLM for responses, which are displayed on 16x2 LCD screen.
 
 
 ## Built With
