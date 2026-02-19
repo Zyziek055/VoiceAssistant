@@ -1,0 +1,5 @@
+SpeechRecognition
+openai-whisper
+ollama
+rpi-lcd
+pyaudio
